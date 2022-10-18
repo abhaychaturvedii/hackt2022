@@ -1,0 +1,6 @@
+Binary search is a divide and conquer technique.
+It divides the problem space and performs the operation on both the ends
+thus eliminating the unused spaces
+
+Time Complexity: O(log(n))
+Space Complexity: O(1)
